@@ -16,9 +16,6 @@ The menu section includes Breakfast, Lunch and Dinner. User needs to click the i
 
 - **Contact Us:** Users can reach out for inquiries or feedback through the provided contact information.
 
-## Demo
-
-You can see a live demo of the Online Canteen project [here](#).
 
 ## Getting Started
 
